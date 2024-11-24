@@ -1,0 +1,4 @@
+
+std::map<std::pair(int,int), Cell* >
+bien definir l'operateur >> char d;
+d >> cell._x >> d >> cell._y >> d
